@@ -1,0 +1,32 @@
+.board-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.info-panel {
+  display: flex;
+  align-items: center;
+  margin-bottom: 15px;
+  font-size: 20px;
+}
+
+.info-panel > div {
+  margin: 0 10px;
+}
+
+.info-panel > div:not(:last-child)::after {
+  content: '|';
+  margin-left: 10px;
+}
+
+.board {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-gap: 20px; /* Increase gap between cards */
+  justify-content: center; /* Center the grid horizontally */
+  align-items: center; /* Center the grid vertically */
+  height: 80vh; /* Full viewport height */
+  padding: 5px;
+  box-sizing: border-box;
+}
