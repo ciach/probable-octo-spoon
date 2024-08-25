@@ -1,30 +1,30 @@
 {
   "files": {
-    "main.css": "/ciach/probable-octo-spoon/static/css/main.21c381c1.css",
-    "main.js": "/ciach/probable-octo-spoon/static/js/main.6cc83dc1.js",
-    "static/media/horse.png": "/ciach/probable-octo-spoon/static/media/horse.d615ea7d360605a90a7c.png",
-    "static/media/elephant.png": "/ciach/probable-octo-spoon/static/media/elephant.90b51bd8c9dda607d686.png",
-    "static/media/chicken.png": "/ciach/probable-octo-spoon/static/media/chicken.5f4d1a7ebb90b9162924.png",
-    "static/media/duck.png": "/ciach/probable-octo-spoon/static/media/duck.fe0dd74e0434591fee53.png",
-    "static/media/cow.png": "/ciach/probable-octo-spoon/static/media/cow.4e174ef485a4fb512d6a.png",
-    "static/media/card_back.png": "/ciach/probable-octo-spoon/static/media/card_back.ea62618fbfa147182268.png",
-    "static/media/sheep.png": "/ciach/probable-octo-spoon/static/media/sheep.68d817ba0ddccce98190.png",
-    "static/media/dog.png": "/ciach/probable-octo-spoon/static/media/dog.6cb6bf84d37533d75a75.png",
-    "static/media/cat.png": "/ciach/probable-octo-spoon/static/media/cat.fa7bcae2b1305643bae3.png",
-    "static/media/elephant.wav": "/ciach/probable-octo-spoon/static/media/elephant.063afc27f9eed6a31834.wav",
-    "static/media/dog.mp3": "/ciach/probable-octo-spoon/static/media/dog.5f3e64962a407dcb7ae4.mp3",
-    "static/media/chicken.mp3": "/ciach/probable-octo-spoon/static/media/chicken.ffab2277148191f7f8cc.mp3",
-    "static/media/cow.mp3": "/ciach/probable-octo-spoon/static/media/cow.aaec2cd8f256ae2a0cfe.mp3",
-    "static/media/horse.mp3": "/ciach/probable-octo-spoon/static/media/horse.d89f7d0f86f9aed6627e.mp3",
-    "static/media/duck.mp3": "/ciach/probable-octo-spoon/static/media/duck.597ac4c002ccbe8d3dc7.mp3",
-    "static/media/cat.mp3": "/ciach/probable-octo-spoon/static/media/cat.c628bf1e8b677796e1de.mp3",
-    "static/media/sheep.mp3": "/ciach/probable-octo-spoon/static/media/sheep.7fbfb343830fbde01aba.mp3",
-    "index.html": "/ciach/probable-octo-spoon/index.html",
-    "main.21c381c1.css.map": "/ciach/probable-octo-spoon/static/css/main.21c381c1.css.map",
-    "main.6cc83dc1.js.map": "/ciach/probable-octo-spoon/static/js/main.6cc83dc1.js.map"
+    "main.css": "/probable-octo-spoon/static/css/main.21c381c1.css",
+    "main.js": "/probable-octo-spoon/static/js/main.c5dc69a4.js",
+    "static/media/horse.png": "/probable-octo-spoon/static/media/horse.d615ea7d360605a90a7c.png",
+    "static/media/elephant.png": "/probable-octo-spoon/static/media/elephant.90b51bd8c9dda607d686.png",
+    "static/media/chicken.png": "/probable-octo-spoon/static/media/chicken.5f4d1a7ebb90b9162924.png",
+    "static/media/duck.png": "/probable-octo-spoon/static/media/duck.fe0dd74e0434591fee53.png",
+    "static/media/cow.png": "/probable-octo-spoon/static/media/cow.4e174ef485a4fb512d6a.png",
+    "static/media/card_back.png": "/probable-octo-spoon/static/media/card_back.ea62618fbfa147182268.png",
+    "static/media/sheep.png": "/probable-octo-spoon/static/media/sheep.68d817ba0ddccce98190.png",
+    "static/media/dog.png": "/probable-octo-spoon/static/media/dog.6cb6bf84d37533d75a75.png",
+    "static/media/cat.png": "/probable-octo-spoon/static/media/cat.fa7bcae2b1305643bae3.png",
+    "static/media/elephant.wav": "/probable-octo-spoon/static/media/elephant.063afc27f9eed6a31834.wav",
+    "static/media/dog.mp3": "/probable-octo-spoon/static/media/dog.5f3e64962a407dcb7ae4.mp3",
+    "static/media/chicken.mp3": "/probable-octo-spoon/static/media/chicken.ffab2277148191f7f8cc.mp3",
+    "static/media/cow.mp3": "/probable-octo-spoon/static/media/cow.aaec2cd8f256ae2a0cfe.mp3",
+    "static/media/horse.mp3": "/probable-octo-spoon/static/media/horse.d89f7d0f86f9aed6627e.mp3",
+    "static/media/duck.mp3": "/probable-octo-spoon/static/media/duck.597ac4c002ccbe8d3dc7.mp3",
+    "static/media/cat.mp3": "/probable-octo-spoon/static/media/cat.c628bf1e8b677796e1de.mp3",
+    "static/media/sheep.mp3": "/probable-octo-spoon/static/media/sheep.7fbfb343830fbde01aba.mp3",
+    "index.html": "/probable-octo-spoon/index.html",
+    "main.21c381c1.css.map": "/probable-octo-spoon/static/css/main.21c381c1.css.map",
+    "main.c5dc69a4.js.map": "/probable-octo-spoon/static/js/main.c5dc69a4.js.map"
   },
   "entrypoints": [
     "static/css/main.21c381c1.css",
-    "static/js/main.6cc83dc1.js"
+    "static/js/main.c5dc69a4.js"
   ]
 }
