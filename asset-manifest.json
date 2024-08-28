@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/probable-octo-spoon/static/css/main.21c381c1.css",
+    "main.css": "/probable-octo-spoon/static/css/main.0f414fa4.css",
     "main.js": "/probable-octo-spoon/static/js/main.c5dc69a4.js",
     "static/media/horse.png": "/probable-octo-spoon/static/media/horse.d615ea7d360605a90a7c.png",
     "static/media/elephant.png": "/probable-octo-spoon/static/media/elephant.90b51bd8c9dda607d686.png",
@@ -20,11 +20,11 @@
     "static/media/cat.mp3": "/probable-octo-spoon/static/media/cat.c628bf1e8b677796e1de.mp3",
     "static/media/sheep.mp3": "/probable-octo-spoon/static/media/sheep.7fbfb343830fbde01aba.mp3",
     "index.html": "/probable-octo-spoon/index.html",
-    "main.21c381c1.css.map": "/probable-octo-spoon/static/css/main.21c381c1.css.map",
+    "main.0f414fa4.css.map": "/probable-octo-spoon/static/css/main.0f414fa4.css.map",
     "main.c5dc69a4.js.map": "/probable-octo-spoon/static/js/main.c5dc69a4.js.map"
   },
   "entrypoints": [
-    "static/css/main.21c381c1.css",
+    "static/css/main.0f414fa4.css",
     "static/js/main.c5dc69a4.js"
   ]
 }
